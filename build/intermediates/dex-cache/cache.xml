@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-48757a73e2025401d8e036c572212a3490c3c506.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-392ff26b2e631dd59cddc1d84598cce3981689ac.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-36d5e7ce86affcceb18cc5aaf49da3433aedfe7a.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d9015dcae85f0842c4624a13497ae84c945675a8.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-e9025d591043141bab35f3d7cd27a0fefa995cf7.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-44b258887ef4fd9d8ad4b229142866ad7c887110.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-0d65975415292d4056c035b2736133014d0d889b.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-c0c4ef112b281e382de287936a599bdac434d15f.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-32b136e672fe51e07d1a69391b3abfb5f63c0d05.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ea10672509473609816112cb767200c628736264.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-575adee69e1a8c0b68ea1a9d502f159b0601dacc.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-29a74a5000238de23115494dc6af0ad52a86ce21.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-8a852e9fdaa70aad7a9f0709e0c1b27af7500d0f.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-45f94dcdaa52877b402563be024c2fc2981e7394.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d53c9843e45217695bf7bde6fcd06a42c5eb5863.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-0f939c2c0191e8aa796b4e4122624158c156f9f0.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-7643864ee326964b5ff0d8ad3b7376ba79d62301.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-a70995fb6d0b78bf8119cdc7511c16aa93227e12.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-97d951624d7b39eae7b12c5143b31e9a937b63d5.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-450ebf89b7eea0e1bf085ea462b0f54a1706c935.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-6f8837ed94cac8ab255bab1620fdfa0a0a05bb4f.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-5babd42532ed967ced14796515051bdac16ff5da.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-95fdc94340282bf4a41f5a3c7aa07f59fd425d9e.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-090747b4cfa7c7121ef237731053af6618afdd64.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ba1455d492b9ccbd48798ee42c29e5b5914f302e.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-1ef196b501741d2cd6345c39c1a126db148d570f.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ed19e0a377f46f141595d19899c8822045073c04.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-3272c34077e3d33db39a6498a5ca46705eeec23a.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ea629fe6038bea9d9e268544fb114c67f74a3355.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-583ceb3d14bf680962e17786dfdd881917f48fe0.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-a86742b5a15f15cf9281a28dfd40de2b550179dd.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ac2fd7a4a4f87b76ea38e2dc7496365bd49bd3d9.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-dd5ad3b808fb709dab99ebd6459ae2216123f3a4.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-b11750f4ea41ce83e34874424df502096d0aaeac.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-b88baf9729087842fa86d5df3fd66e925849484c.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-f3985f62ccb047e491343c344ee987bef1417126.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-c1284fe7d22788b84a71d6ea2c6748dbc18013ef.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-3af5898d9a8d365a3d6998d611f84ca59bc1c685.jar\classes.dex" />
+    </item>
+    <item
+        jar="F:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-5033c029ee0d54c3ea31941e62e5a09b253bda11.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-a16bae8c82c4b1f39e5bf034a152e3e7da1f2ede.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d89bcc632e059c4ec37bca9d2b2a2345c35a25a1.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-99729fc83928d25b179047847eb6dbf7c2312401.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-000ea8db46dbe3aaebc3117cd3d30f39a6aa2009.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-723a36b4c70cf541c6caef55e1cb4af57b7b8b9c.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-348f89859d7388765e7aba8ed9e87cb35a76a2cf.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-0154bf18036f946bc6e3124d9a12eac386eb9e83.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d98ea51599f60535f4cc999c9f73269d4bdd7586.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-b7364ad2cea51de98d80ecf30c2f1f44b8716960.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-a2066edd3941e275d7a332dc0528ad18bd51975f.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-9aa92c618ab54ff26d6eb545521e51695f5fe7ab.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-9c24f890018bb2471866dabd599acd3b975e4114.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-b2e37e5a927bf22a36dcd9f775088fab06fa8a35.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-c2ebbe0d882d21e0c594940d17b49f5d008bc099.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-caa0e37d5439c4a13ce64a16021e55849d7c11fe.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-74f0b45da995e37d8faa3109933c408a902df80b.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d58f629dd790e64a71fb72c259ab9a56540a0098.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d3e8079786000db05681e2c1e871c236bc432761.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-4dde39b2735effc227198e8c5834884b79ad509b.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-710fa080ad53a6e84e449e0503faea90189e5aa6.jar\classes.dex" />
+    </item>
+    <item
+        jar="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="G:\desktop\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-8c81930a2cc5e62c8739017e854b63be0ab18fc7.jar\classes.dex" />
+    </item>
+
+</items>
